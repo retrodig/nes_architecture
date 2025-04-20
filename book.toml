@@ -1,0 +1,6 @@
+[book]
+authors = ["panicdragon"]
+language = "en"
+multilingual = false
+src = "src"
+title = "NES Architecture Book"
