@@ -24,3 +24,9 @@ Optionally specify port
 ```
 mdbook serve -p 4000
 ```
+
+Static build
+
+```
+mdbook build
+```
