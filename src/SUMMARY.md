@@ -1,9 +1,9 @@
 # Summary
 
 - [ファミリーコンピュータの主な仕様](./chapter_1.md)
-  - [CPU](./chapter_1_1)
-  - [カートリッジ](./chapter_1_2)
-  - [PPU](./chapter_1_3)
-  - [画面仕様](./chapter_1_4)
+  - [CPU](./chapter_1_1.md)
+  - [カートリッジ](./chapter_1_2.md)
+  - [PPU](./chapter_1_3.md)
+  - [画面仕様](./chapter_1_4.md)
 - [Chapter 2](./chapter_2.md)
-- [ファミリーコンピュータ ソフト一覧](./chapter_10)
+- [ファミリーコンピュータ ソフト一覧](./chapter_10.md)
